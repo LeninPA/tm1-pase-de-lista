@@ -2,3 +2,4 @@
 Pase de lista para TM1
 
 1. Lenin Pavón Alvarez (@LeninPA)
+2. Isaac Yair Macias Vargas
